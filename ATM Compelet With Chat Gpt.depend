@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1691761518 source:d:\3. my project\2. c++\by my self project\atm compelet with chat gpt\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<fstream>
+	<string>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
+1697286437 source:d:\3.myproject\2.c++\by my self project\atm compelet with chat gpt\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<fstream>
+	<string>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+
